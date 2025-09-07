@@ -55,7 +55,7 @@ Scores update automatically.
 Clone the project and open index.html in your browser.
 
 # Clone this repository
-git clone https://github.com/your-username/rock-paper-scissors.git
+git clone https://https://github.com/AshutoshSharma312/RockPaperScissor
 
 # Open the folder
 cd rock-paper-scissors
